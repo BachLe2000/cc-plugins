@@ -1,0 +1,6 @@
+{
+  "name": "Activities-Dev",
+  "description": "Enables Extra Discord Activities (mainly Dev and Staging) on all servers",
+  "author": "Bach Wumpus (code base by Dziurwa)",
+  "file": "main.js"
+}
